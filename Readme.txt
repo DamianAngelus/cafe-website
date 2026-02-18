@@ -1,8 +1,8 @@
-How to run the Cake Bakery System Using PHP and MySQL
+How to run the Cafe Bakery System Using PHP and MySQL
 
 1-Download the zip file
 
-2-Extract the file and copy cakebakerysystem folder
+2-Extract the file and copy cafebakerysystem folder
 
 3-Paste inside root directory(for xampp xampp/htdocs, for wamp wamp/www, for lamp var/www/html)
 
@@ -12,7 +12,7 @@ How to run the Cake Bakery System Using PHP and MySQL
 
 6-Import cbsdb.sql file(given inside the zip package in SQL file folder)
 
-7-Run the script http://localhost/cakebakerysystem
+7-Run the script http://localhost/cafebakerysystem
 
 Admin Credential
 Username: admin
@@ -21,4 +21,5 @@ Password: Test@123
 User Credential
 Username: ak3330@gmail.com
 Password: Test@123
+
 or you can register a new user
